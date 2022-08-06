@@ -1,0 +1,95 @@
+body{
+    background-image: url("banner_image.jpg");
+}
+#login_box{
+
+  max-width: 350px;
+border-radius: 20px;
+margin-top: 20px;
+padding: 20px;
+background-image: url("images\(1\).jpg");
+height: 410px;
+}
+#Recantly{
+    background-color:rgb(46, 121, 207);
+    max-width: 350px;
+border-radius: 20px;
+margin-top: 20px;
+padding: 20px;
+opacity: 0.9;
+margin-right: 50px;
+
+}
+span{
+    display: table;
+    font-weight: bold;
+    color: aquamarine;
+    display: inline-block;
+}
+.text_1{
+    color: bisque;
+    font-weight: bold;
+}
+input{
+    border-radius: 10px;
+    padding: 5px;
+  
+}
+#logo_image{
+    border-radius: 50%;
+
+    width: 100px;
+
+}
+#share{
+    display: none;
+}
+.logout{
+    margin-top: 15px;
+    text-align: right;
+    float: right;
+}
+table,th,tr,td{
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 40px;
+}
+#chat_box{
+    background-color: rgb(199, 183, 183);
+    opacity: 0.9;
+    height: 450px;
+    max-width:350px ;
+}
+#login_page{
+    background-color: rgb(224, 133, 28);
+    max-width: 350px;
+    height: 250px;
+    opacity: 0.9;
+    border-radius: 15px;
+    padding: 5px;
+    margin-top: 50px;
+}
+
+#text_1{
+    color: rgb(238, 29, 158);
+}
+#header{
+      
+    font-size: 45px;
+    letter-spacing: 10px;
+    margin-top: 80px;
+    color: white;
+}
+
+#welcome{
+    font-weight: bold;
+    color: white;
+}
+#chat_box{
+    border-radius: 20px;
+    margin-top: 20px;
+  margin-bottom: 5px;
+}
+.logo{
+    margin-top: 40px;
+}
